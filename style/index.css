@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+margin-left: 20px;
+}
+nav{
+    
+border: 2px solid black;
+    display: flex;
+    height: 45px;
+
+    
+    
+}
+
+span{
+    color: black;
+}
+a{
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:red;
+    justify-content: center;
+    margin-left:45px;
+    text-decoration: none;
+
+    
+
+
+}
+h1{
+    color:rgb(237, 14, 14);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.classtof1{
+    border-style: solid;
+    padding: 2px;
+    margin-left: 40px;
+    margin-top: 50px;
+    margin-right: 40px;
+    height: 400px; 
+
+}
+
+    
+p{
+    text-align: center;
+    justify-content: center;
+    margin-top: -10px;
+   
+}
+ul{
+    display: flex;
+    margin-left: 55%;
+    padding: 10px;
+}
+h2{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.same{
+    display: flex;
+
+}
+.sott{
+    margin-left: 8%;
+    padding:30px;
+    border-style: solid;
+    margin-top: 50px;
+}
+.mio{
+    border-style: solid;
+    margin-top: 40px;
+    display: flex;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+
+    }
+    #mio2, #mio3{
+        margin-left: 35%;
+        margin-top: 20px;
+    }
+    #mio1{
+        margin-left: 50px;
+        margin-top: 10px;
+
+    }
+    footer{
+        margin-left: 20px;
+    }
+    .s2{
+        background-color: rgb(207, 240, 240);
+        border-radius: 30px;
+        width:70% ;
+        height: 250px;
+        margin-left: 20%;
+        border: 1px solid #e7c7c7;
+        margin-top: 200px;
+    }
+    .clapropos{
+        text-align: center;
+        color: blue;
+        margin-top: 40px;
+        margin-left: -10%;
+    }
+    .meuh1{
+        display: flex;
+        margin-left: 10%;
+        color: blue;
+    }
+    .P2{
+        color: blue;
+    }
+    footer{
+        margin-top: 10px;
+    }
+    article{
+        justify-content: center;
+        margin-top: 30px;
+        margin-left: 15%;
+       
+        width:70%;
+    }
+    
+    section{
+        display: flex;
+        margin-left: 15px;
+        
+    }
+    th{
+        border: 1px solid gainsboro;
+        background-color: rgb(6, 6, 74);
+        color: white;
+
+    }
+    td{
+        border: 1px solid gainsboro;
+        color: blue;  
+
+    } 
+    table{
+        border-collapse: collapse;
+    }
+    
+    
+    
+    img{
+    width: 200px;
+    height: 190px;
+    margin-top: 30px;
+    margin-bottom: 8px;
+    margin-left: 30px;
+}
+button{
+    background-color: rgb(4, 4, 72);
+    color: white;
+    margin-top: -200px;
+    margin-bottom: 100px;
+}
+.classh1{
+    margin-left: 10px;
+    margin-top: 10px;
+    color: rgb(6, 6, 74);
+    font-family: none;
+
+}
+form{
+    background-size: cover;
+    width: 700px;
+    margin-left: 30%;
+    margin-top: 70px;
+    border: 1px solid rgb(3, 3, 83);
+    background-color: rgb(35, 203, 203);
+    border-radius: 20px;
+   
+   
+
+}
+input{
+    min-height: 30px;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: 400px;
+    height: 50%;
+    width: 90%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+   
+    
+}
+
+goediv{
+    font-size: 20px;
+    font-weight: 400px;
+    margin-top: 10px;
+    padding: 10px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+    color: blue;
+    
+}
+label{
+    color: blue;
+    font-size: 1.5em;
+}
+button{
+    padding: 6px;
+    flex: 33%;
+    background-color: rgb(6, 6, 80);
+    margin-top: 10px;
+    width: 93%;
+    height: 70%;
+    color: white;
+}
+
+    
+    
+    
