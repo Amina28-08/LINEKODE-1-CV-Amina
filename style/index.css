@@ -40,7 +40,8 @@ h1{
     margin-left: 40px;
     margin-top: 50px;
     margin-right: 40px;
-    height: 400px; 
+    height: 400px;
+    width: 650px; 
 
 }
 
@@ -143,6 +144,7 @@ h2{
     } 
     table{
         border-collapse: collapse;
+        box-shadow: 4px 8px 16px gray;
     }
     
     
@@ -175,6 +177,8 @@ form{
     border: 1px solid rgb(3, 3, 83);
     background-color: rgb(35, 203, 203);
     border-radius: 20px;
+    box-shadow: 4px 8px 16px gray;
+
    
    
 
@@ -188,6 +192,7 @@ input{
     width: 90%;
     padding-top: 10px;
     padding-bottom: 10px;
+    
 
    
     
